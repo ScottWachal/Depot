@@ -1,13 +1,32 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
+ruby:
+  title:      Programming Ruby 1.9
+  description:
+    This is a line of description about how ruby
+    is a really cool language. We love it so much
+    that I cannot wait to go home and tell Natalie
+    about what a great language it is! The end
+  price:      49.50
+  image_url:  ruby.png
+
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title:      Programming Ruby 1.9
+  description:
+    This is a line of description about how ruby
+    is a really cool language. We love it so much
+    that I cannot wait to go home and tell Natalie
+    about what a great language it is! The end
+  price:      49.50
+  image_url:  ruby.png
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
+  title:      Programming Ruby 1.9
+  description:
+    This is a line of description about how ruby
+    is a really cool language. We love it so much
+    that I cannot wait to go home and tell Natalie
+    about what a great language it is! The end
+  price:      49.50
+  image_url:  ruby.png
+
